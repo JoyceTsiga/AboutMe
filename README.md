@@ -44,8 +44,10 @@ Change the world by being <b>yourself<b>.
  ![Tom Holland]
  [Ralph Baer][2]
   
+ ## Favorite terms
+  
  | Terms | Definitions | My Meaning
- |:-| ---- |
+ |:-| :----: | ---:|
  | Astral | of, connected with, or resembling the stars. | Relating to stars
  |Nebula | an interstellar cloud of dust, hydrogen, helium and other ionized gases | Space clouds
 
