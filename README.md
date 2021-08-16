@@ -6,7 +6,7 @@
 My name is Joyce Tsiga. I am a senior that is taking computer science at SICTC. I like to write code and create working programs. I would like to program video games as a career in the future.
 
 [1]: https://www.imdb.com/name/nm4043618/
-[2]: https://www.baesystems.com/
+[2]: https://en.wikipedia.org/wiki/Ralph_H._Baer
 
 Hobbies
 -
