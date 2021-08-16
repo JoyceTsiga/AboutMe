@@ -41,7 +41,7 @@ Change the world by being <b>yourself<b>.
  ## Persons of Interest
   
  [Tom Holland][1]
- 
+ <img src= "Tom_Holland_MTV_2018_(02).jpg">
  [Ralph Baer][2]
   
  ## Favorite terms
