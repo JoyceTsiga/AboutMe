@@ -41,9 +41,10 @@ Change the world by being <b>yourself<b>.
  ## Persons of Interest
   
  [Tom Holland][1]
- <img src= "Tom_Holland_MTV_2018_(02).jpg">
+ <kbd>
+   <img src= "Tom_Holland_MTV_2018_(02).jpg"></kbd>
  [Ralph Baer][2]
- <img src= "ralph-baer-02_wide-5c1a8361ab88d5406b9b2e3fd3ea5b895240ff16.jpg">
+ <img src= "ralph-baer-02_wide-5c1a8361ab88d5406b9b2e3fd3ea5b895240ff16.jpg" width="275"></kbd>
  ## Favorite terms
   
  | Terms | Definitions | My Meaning
