@@ -41,7 +41,7 @@ Change the world by being <b>yourself<b>.
  ## Persons of Interest
   
  [Tom Holland][1]
- ![Tom Holland]
+ 
  [Ralph Baer][2]
   
  ## Favorite terms
